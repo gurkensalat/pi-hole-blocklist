@@ -2,7 +2,7 @@
 
 ## What's this blocklist about?
 
-Well, just bumped into an artictle about how to overcome Windows 10 sending telemetry data.
+Well, just bumped into an artictle about how to overcome Windows 10 sending telemetry data. As I did not find a already existing complete blocklist, I just created my own one.
 
 ## Why do you think it's a good thing and worth trying?
 
