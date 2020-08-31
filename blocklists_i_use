@@ -27,3 +27,4 @@ sqlite3 "/etc/pihole/gravity.db" "SELECT * FROM adlist"
 40|https://blocklistproject.github.io/Lists/scam.txt|1|1598789832|1598789832|
 41|https://blocklistproject.github.io/Lists/tracking.txt|1|1598789875|1598789875|
 42|https://blocklistproject.github.io/Lists/youtube.txt|1|1598789910|1598789910|
+43|https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt|1|1598894918|1598894918|
