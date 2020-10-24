@@ -1,19 +1,19 @@
 sqlite3 "/etc/pihole/gravity.db" "SELECT * FROM adlist"
 
-1|https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts|1|1589397087|1589397087
-2|https://mirror1.malwaredomains.com/files/justdomains|1|1589397087|1589397087
-3|http://sysctl.org/cameleon/hosts|1|1589397087|1589397087
-4|https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt|1|1589397087|1589397087
-5|https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt|1|1589397087|1589397087
-19|https://v.firebog.net/hosts/AdguardDNS.txt|1|1589397087|1589397087
-20|https://v.firebog.net/hosts/Easyprivacy.txt|1|1589397087|1589397087
-21|https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl.txt|1|1589397087|1589397087
+1|https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts|1|1589397087|1589397087|Migrated from /etc/pihole/adlists.list
+2|https://mirror1.malwaredomains.com/files/justdomains|1|1589397087|1589397087|Migrated from /etc/pihole/adlists.list
+3|http://sysctl.org/cameleon/hosts|1|1589397087|1589397087|Migrated from /etc/pihole/adlists.list
+4|https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt|1|1589397087|1589397087|Migrated from /etc/pihole/adlists.list
+5|https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt|1|1589397087|1589397087|Migrated from /etc/pihole/adlists.list
+19|https://v.firebog.net/hosts/AdguardDNS.txt|1|1589397087|1589397087|Migrated from /etc/pihole/adlists.list
+20|https://v.firebog.net/hosts/Easyprivacy.txt|1|1589397087|1589397087|Migrated from /etc/pihole/adlists.list
+21|https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl.txt|1|1589397087|1589397087|Migrated from /etc/pihole/adlists.list
 22|https://v.firebog.net/hosts/static/w3kbl.txt|1|1589720817|1589720817|
 23|https://dbl.oisd.nl/|1|1589741108|1589741108|
 25|https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt|1|1589743103|1589743103|
 26|https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt|1|1589743111|1589743111|
 27|https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt|1|1598707768|1598707768|
-29|https://raw.githubusercontent.com/gurkensalat/pi-hole-blocklist/master/w10-telemetry|1|1598789366|1598789366|
+29|https://raw.githubusercontent.com/gurkensalat/pi-hole-blocklist/master/w10-telemetry|1|1598789366|1602315668|
 30|https://blocklistproject.github.io/Lists/ads.txt|1|1598789689|1598789689|
 31|https://blocklistproject.github.io/Lists/crypto.txt|1|1598789725|1598789725|
 32|https://blocklistproject.github.io/Lists/facebook.txt|1|1598789733|1598789733|
@@ -27,4 +27,5 @@ sqlite3 "/etc/pihole/gravity.db" "SELECT * FROM adlist"
 40|https://blocklistproject.github.io/Lists/scam.txt|1|1598789832|1598789832|
 41|https://blocklistproject.github.io/Lists/tracking.txt|1|1598789875|1598789875|
 42|https://blocklistproject.github.io/Lists/youtube.txt|1|1598789910|1598789910|
-43|https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt|1|1598894918|1598894918|
+43|https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt|1|1598894918|1602315690|
+44|https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/spy.txt|1|1601661023|1602315702|
