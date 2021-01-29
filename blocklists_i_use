@@ -1,7 +1,6 @@
 sqlite3 "/etc/pihole/gravity.db" "SELECT * FROM adlist"
 
 1|https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts|1|1589397087|1589397087|Migrated from /etc/pihole/adlists.list
-2|https://mirror1.malwaredomains.com/files/justdomains|1|1589397087|1589397087|Migrated from /etc/pihole/adlists.list
 3|http://sysctl.org/cameleon/hosts|1|1589397087|1589397087|Migrated from /etc/pihole/adlists.list
 4|https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt|1|1589397087|1589397087|Migrated from /etc/pihole/adlists.list
 5|https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt|1|1589397087|1589397087|Migrated from /etc/pihole/adlists.list
